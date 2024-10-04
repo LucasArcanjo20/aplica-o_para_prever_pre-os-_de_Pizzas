@@ -1,4 +1,5 @@
 Previsão de Preços de Pizzas 🍕
+
 Este repositório contém um projeto de Machine Learning desenvolvido em Python, onde o objetivo principal é prever os preços de pizzas com base em seu diâmetro. A aplicação foi desenvolvida com o uso de várias bibliotecas populares de ciência de dados e IA, proporcionando um ótimo exemplo prático para quem está começando no mundo do Aprendizado de Máquina.
 
 Tecnologias Utilizadas:
